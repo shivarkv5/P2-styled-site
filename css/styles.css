@@ -6,6 +6,13 @@ body {
     background-color: #18c43a;
 }
 
+.top-level {
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Sacramento', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+}
+
 .img-circle {
     height: 250px;
     width: 250px;
@@ -63,14 +70,17 @@ aside {
 
 #section1 {
     background-color: #f4efd3;
+    font-family: 'Dancing Script', cursive;
 }
 
 #section2 {
     background-color: #cccccc;
+    font-family: 'Dancing Script', cursive;
 }
 
 #section3 {
     background-color: #c2b0c9;
+    font-family: 'Dancing Script', cursive;
 }
 
 .video {
