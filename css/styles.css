@@ -3,13 +3,15 @@ h1 {
 }
 
 body {
-    background-color: aquamarine;
+    background-color: #ccedd2;
 }
 
 .img-circle {
     height: 250px;
     width: 250px;
     border-radius: 50%;
+    display: block;
+    margin: auto auto;
 }
 
 header {
@@ -22,8 +24,6 @@ header {
     width: 50px;
 }
 
-.chicken {}
-
 aside {
     margin-left: auto;
     margin-right: auto;
@@ -34,7 +34,7 @@ aside {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #c06c84;
 }
 
 .navBar li {
@@ -50,7 +50,7 @@ aside {
 }
 
 .navBar li a:hover {
-    background-color: #111;
+    background-color: #35477d;
 }
 
 .footerInfo {
@@ -58,4 +58,16 @@ aside {
     padding-top: 30px;
     padding-bottom: 30px;
     text-align: center;
+}
+
+#section1 {
+    background-color: #f67280;
+}
+
+#section2 {
+    background-color: #c06c84;
+}
+
+#section3 {
+    background-color: #6c5b7b;
 }
