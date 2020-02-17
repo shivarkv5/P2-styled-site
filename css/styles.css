@@ -87,3 +87,19 @@ aside {
     margin-left: auto;
     margin-right: auto;
 }
+
+.flex-container {
+    display: flex;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 15px;
+}
